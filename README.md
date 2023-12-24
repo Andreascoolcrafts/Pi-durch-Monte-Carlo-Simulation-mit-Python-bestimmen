@@ -6,6 +6,9 @@ Dieses Python-Skript nutzt die Monte Carlo Methode zur Annäherung an den Wert v
 
 Das Skript generiert zufällige Punkte innerhalb eines Quadrats und zählt, wie viele dieser Punkte innerhalb eines Kreises liegen, der in das Quadrat eingepasst ist. Der Quotient aus der Anzahl der Punkte im Kreis und der Gesamtzahl der Punkte wird zur Approximation von PI verwendet.
 
+![The San Juan Mountains are beautiful!](https://github.com/Andreascoolcrafts/Pi-durch-Monte-Carlo-Simulation-mit-Python-bestimmen/blob/main/diagramm_video.png "San Juan Mountains")
+
+
 ## Jetzt ohne Installation auf Replit.com benutzen
 1. [In Replit.com öffnen](https://replit.com/@andreasrittsel/PI-mit-Monte-Carlo-Simulation-bestimmen)
 2. Oben rechts auf den grünen Knopf "Run" klicken

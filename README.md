@@ -8,6 +8,7 @@ Das Skript generiert zufällige Punkte innerhalb eines Quadrats und zählt, wie 
 
 ## Jetzt ohne Installation auf Replit.com benutzen
 [<kbd> <br> In Replit öffnen <br> </kbd>][Link]
+[Link]: # 'Link with example title.'
 
 
 ## Anforderungen

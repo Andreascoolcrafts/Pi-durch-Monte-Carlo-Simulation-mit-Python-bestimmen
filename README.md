@@ -7,8 +7,8 @@ Dieses Python-Skript nutzt die Monte Carlo Methode zur Annäherung an den Wert v
 Das Skript generiert zufällige Punkte innerhalb eines Quadrats und zählt, wie viele dieser Punkte innerhalb eines Kreises liegen, der in das Quadrat eingepasst ist. Der Quotient aus der Anzahl der Punkte im Kreis und der Gesamtzahl der Punkte wird zur Approximation von PI verwendet.
 
 ## Jetzt ohne Installation auf Replit.com benutzen
-[<kbd> <br> In Replit öffnen <br> </kbd>][Link]
-[Link]: # 'Link with example title.'
+[<kbd> <br> Title <br> </kbd>][Link]
+
 
 
 ## Anforderungen
